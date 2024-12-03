@@ -1,0 +1,1 @@
+# AI-based-forest-fire-detection
